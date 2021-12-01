@@ -12,5 +12,3 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ♥ by James Crowell
-
-### ©2019 Run Buddy, Inc
